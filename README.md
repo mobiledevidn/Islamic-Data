@@ -10,6 +10,6 @@ Data ini ini berisi beberapa source data untuk project Islami. Silahkan digunaka
 Pull requests dipersilahkan.
 
 ## Donation 💰
-Supaya akun ini makin berkembang support kami dengan di [Saweria](saweria.co/mobiledevidn) atau bisa scan Qr Code ini. 
+Supaya akun ini makin berkembang support kami di [Saweria](saweria.co/mobiledevidn) atau bisa scan Qr Code ini. 
 
 ![MobileDevIdn Saweria](https://i.ibb.co/jgsPCQs/Saweria-Mobile-Dev-Idn.png)
